@@ -3,6 +3,4 @@
 Changes now on "example" branch
 
 
-Making edits
-
-Local edits
+Edits on main before rebase.
